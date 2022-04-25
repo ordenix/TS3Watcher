@@ -8,5 +8,4 @@ class WatcherApplication
 
 fun main(args: Array<String>) {
 	runApplication<WatcherApplication>(*args)
-	println("sss")
 }
